@@ -1,7 +1,5 @@
 const { devDependencies } = require('./package.json');
 
-console.log('babel config is loaded');
-
 const config = {
     presets: [
         [

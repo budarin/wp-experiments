@@ -1,7 +1,4 @@
 const path = require('path');
-const webpack = require('webpack');
-
-console.log('wp config is loaded');
 
 module.exports = {
     target: 'node19.2',
